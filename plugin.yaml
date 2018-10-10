@@ -1,0 +1,6 @@
+plugin:
+    name: 'enovision.rocktober::lang.plugin.name'
+    description: 'enovision.rocktober::lang.plugin.description'
+    author: Enovision
+    icon: oc-icon-beer
+    homepage: ''
